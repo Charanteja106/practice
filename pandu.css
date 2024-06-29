@@ -1,0 +1,27 @@
+
+.heading{
+    /* text-align: center; */
+    border-color: black;
+    border-style: outset
+
+}
+#box{
+    border-color: rgb(201, 57, 57);
+    border-width: 8px;
+    border-style: outset;
+    padding: 15px;
+    margin: 80px;
+    text-align: center;
+    font-style: initial;
+    font: size 80px;;
+    color: rgb(16, 219, 63);
+    border-radius: 10rem;
+}
+
+.matter{
+    margin: 2rem;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: 1.5rem;
+    text-align: justify;
+}
